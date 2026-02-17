@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=eholtrop&style=flat-square" alt="profile views">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eholtrop&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eholtrop&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages">
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
