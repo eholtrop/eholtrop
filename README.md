@@ -1,4 +1,4 @@
-# Erik Holtrop
+# Evan Holtrop
 
 <p align="center">
   <a href="https://patreon.com/DangerousToPlayAlone"><img src="https://img.shields.io/badge/Support-Patreon-orange?logo=patreon&style=for-the-badge" alt="Patreon"></a>
