@@ -62,7 +62,7 @@
 
 ---
 
-## ❤️ Support Me
+## ❤️ Support These Projects!
 
 <p align="center">
   If you enjoy my work, consider supporting me on Patreon or Ko-fi!
