@@ -55,7 +55,9 @@
 ## 📝 Blog
 
 <p align="center">
-  <a href="https://thetechslice.com/"><img src="https://publish-01.obsidian.md/access/053a33861706febfc7f1a64bc0bc2ba7/The%20Tech%20Slice/Images/ic_tech_slice.png" alt="Twitch"></a>
+  <a href="https://thetechslice.com/">
+    <img src="https://publish-01.obsidian.md/access/053a33861706febfc7f1a64bc0bc2ba7/The%20Tech%20Slice/Images/ic_tech_slice.png" alt="The Tech Slice" width="200">
+  </a>
 </p>
 
 ---
