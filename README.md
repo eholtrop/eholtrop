@@ -42,7 +42,7 @@
 
 ---
 
-## 📺 Streaming
+## 📺 Streaming/Videos
 
 <p align="center">
   <a href="https://twitch.tv/dpaltv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch"></a>
