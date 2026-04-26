@@ -32,12 +32,9 @@
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**lift-bro**](https://github.com/eholtrop/lift-bro) | Kotlin Multiplatform fitness tracking app for Android & iOS | KMP, Compose, SQLDelight, MVI |
-| [**purah**](https://github.com/eholtrop/purah) | AI-powered stream clipper that turns long dev streams into YouTube Shorts | Python, whisper.cpp, local LLM |
-| [**magpy**](https://github.com/eholtrop/magpy) | Video Game Collection Manager | Kotlin Multiplatform |
-| [**rulezero**](https://github.com/eholtrop/rulezero) | Tabletop RPG companion app | TypeScript, React |
-| [**budgey-android**](https://github.com/eholtrop/budgey-android) | Personal budgeting application | Kotlin, Android |
+| [**purah**](https://github.com/dpaltv/purah) | AI-powered stream clipper that turns long dev streams into YouTube Shorts | Python, whisper.cpp, local LLM |
+| [**voice-bot**](https://github.com/dpaltv/voice-bot) | Discord Bot for ensuring an empty voice channel is always available | Javscript, Discord.js |
 | [**pc-setup**](https://github.com/eholtrop/pc-setup) | Dev machine automation scripts & dotfiles | Shell, Dotfiles |
-
 </div>
 
 ---
@@ -65,15 +62,12 @@
 ## ❤️ Support These Projects!
 
 <p align="center">
-  If you enjoy my work, consider supporting me on Patreon or Ko-fi!
+  If you enjoy my work, consider supporting me on Patreon! (Discord access!)
 </p>
 
 <p align="center">
   <a href="https://patreon.com/DangerousToPlayAlone">
     <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
-  </a>
-  <a href="https://ko-fi.com/eholtrop">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
 </p>
 
