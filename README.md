@@ -32,7 +32,7 @@
 | Project | Description | Tech |
 |:--------|:------------|:-----|
 | [**lift-bro**](https://github.com/eholtrop/lift-bro) | Kotlin Multiplatform fitness tracking app for Android & iOS | KMP, Compose, SQLDelight, MVI |
-| [**purah**](https://github.com/dpaltv/purah) | AI-powered stream clipper that turns long dev streams into YouTube Shorts | Python, whisper.cpp, local LLM |
+| [**purah**](https://github.com/dpaltv/purah) | A video editing tool for generating subtites and extracting clips from longer videos | Python, whisper.cpp, local LLM |
 | [**voice-bot**](https://github.com/dpaltv/voice-bot) | Discord Bot for ensuring an empty voice channel is always available | Javscript, Discord.js |
 | [**pc-setup**](https://github.com/eholtrop/pc-setup) | Dev machine automation scripts & dotfiles | Shell, Dotfiles |
 </div>
